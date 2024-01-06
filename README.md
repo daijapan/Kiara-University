@@ -1,4 +1,4 @@
-# kiara-university
+# Kiara-University
 Kiara University General Public Repo
 We put hard problem list here - let's keep being optimistic about solving this
 We will keep taking logical approach to solve these industrial / theoretical unsolved problems 
